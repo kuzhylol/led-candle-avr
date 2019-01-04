@@ -1,4 +1,4 @@
-The avr bare-metal fast-PWM for burning imitation
+AVR bare-metal fast-PWM for burning imitation
 ---------------------------------------------------------------------------------
 The researches have shown that candle has a 16 stages of burning by certain probability distribution.
 
